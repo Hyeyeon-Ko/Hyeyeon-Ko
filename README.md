@@ -33,6 +33,16 @@
 
 ---
 
+## 🎖 Awards & Certs
+
+- ✅ **SQLD** — 한국데이터산업진흥원 (2024.12)
+- 🗣 **Toeic Speaking AL** — ETS (2026.03)
+
+- 🏅 **교내 동아리 대항전 장려상** — 경희대학교 (2021.08)
+- 🥇 **KHreative StartUP 창업아이디어 공모전 최우수상** — 경희대학교 (2024.08)
+
+---
+
 ## 🏆 Key Impacts
 
 | | 성과 | 내용 |
@@ -91,16 +101,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hyeyeon-Ko&theme=tokyonight&hide_border=true&date_format=Y.n.j" />
 </div>
-
----
-
-## 🎖 Awards & Certs
-
-- ✅ **SQLD** — 한국데이터산업진흥원 (2024.12)
-- 🗣 **Toeic Speaking AL** — ETS (2026.03)
-
-- 🏅 **교내 동아리 대항전 장려상** — 경희대학교 (2021.08)
-- 🥇 **KHreative StartUP 창업아이디어 공모전 최우수상** — 경희대학교 (2024.08)
 
 ---
 
