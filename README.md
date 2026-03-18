@@ -5,16 +5,16 @@
 <div align="center">
   <p>업무를 더 빠르고 정확하게 만드는 구조를 고민하고, 꾸준히 개선하며 성장하는 개발자입니다.</p>
   <br/>
+  <a href="https://hyeyeon-ko.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://hyeyeon-ii.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory Blog-FF5722?style=flat-square&logo=tistory&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:khy33355@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://hyeyeon-ko.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -24,11 +24,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **SALUSCARE** Fullstack Engineer (2025.02 ~)
 - 🎓 경희대학교 컴퓨터공학과 B.S. (2020 ~ 2025)
+- 🏢 **KMI 한국의학연구소** Fullstack Engineer, 계약직 (2024.06 ~ 2024.12)
+- 🏢 **SALUSCARE** Fullstack Engineer, 정규직 (2025.02 ~)
+- 🚀 기획 · 개발 E2E Full-stack 실행 가능
 - 💡 Spring Boot 기반 REST API 설계·구현을 주 전공으로 합니다
 - 🔧 업무 자동화, 검진 결과지 서비스 등 복잡한 비즈니스 로직 담당 경험
-- 🚀 기획 · 개발 · 배포까지 E2E Full-stack 실행 가능
 
 ---
 
@@ -36,9 +37,9 @@
 
 | | 성과 | 내용 |
 |---|------|------|
-| ⚡ | **1mo → 1wk 리드타임 단축** | 총무팀 명함·문서·자산 신청부터 발주까지 웹 일원화. 자동 엑셀 생성 및 이메일 발송 자동화로 처리 기간 대폭 단축 |
-| 🔬 | **검진 결과지 5건 고도화** | 단일·특수검진 추가, 이미지·다국어 결과지 제공, 마이페이지 신규 구축 등 KMI vitaportVIEW 핵심 기능 메인 개발 |
-| 🌐 | **E2E Full-stack 포트폴리오** | React + Spring Boot + PostgreSQL로 직접 설계·개발·배포. Vercel + Railway 인프라까지 혼자 담당 |
+| ⚡ | **1mo → 1wk 리드타임 단축** | KMI > 총무팀 명함·문서·자산 신청부터 발주까지 웹 일원화. 자동 엑셀 생성 및 이메일 발송 자동화로 처리 기간 대폭 단축 |
+| 🔬 | **검진 결과지 5건 고도화** | 살루스케어 > 단일·특수검진 추가, 이미지·다국어 결과지 제공, 마이페이지 신규 구축 등 KMI 검진 결과지 핵심 기능 메인 개발 |
+| 🌐 | **E2E Full-stack 포트폴리오** | 개인 포트폴리오 사이트 > React + Spring Boot + PostgreSQL로 직접 설계·개발·배포. Vercel + Railway 인프라까지 혼자 담당 |
 
 ---
 
@@ -95,10 +96,11 @@
 
 ## 🎖 Awards & Certs
 
-- 🥇 **KHreative StartUP 창업아이디어 공모전 최우수상** — 경희대학교 (2024.08)
-- 🏅 **교내 동아리 대항전 장려상** — 경희대학교 (2021.08)
 - ✅ **SQLD** — 한국데이터산업진흥원 (2024.12)
 - 🗣 **Toeic Speaking AL** — ETS (2026.03)
+
+- 🏅 **교내 동아리 대항전 장려상** — 경희대학교 (2021.08)
+- 🥇 **KHreative StartUP 창업아이디어 공모전 최우수상** — 경희대학교 (2024.08)
 
 ---
 
